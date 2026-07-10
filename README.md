@@ -103,10 +103,4 @@ Honest next steps for taking this from a learning project toward production-read
 - [ ] Add pagination to the post list
 - [ ] Add categories/tags for posts
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-**Mohammad** — [@sahebi-code](https://github.com/sahebi-code)
